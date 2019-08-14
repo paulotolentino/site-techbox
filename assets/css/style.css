@@ -1,0 +1,26 @@
+.c001{
+    margin: 0 30px 30px 30px;
+    border: 0px !important;
+    text-align: center ;
+}
+
+.c002{
+    padding: 50px 200px;
+    background-color: rgb(182, 182, 182);
+    height: 100%;
+    text-align: center ;
+}
+
+.c003{
+    font-weight: bold;
+}
+
+.c004{
+    background-color: #c5d4ff !important;
+}
+
+.c005 {
+	zoom: 1;
+	filter: alpha(opacity=50);
+	opacity: 0.5;
+}
